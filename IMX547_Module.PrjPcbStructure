@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=AnalogSupplies.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AnalogSupplies.SchDoc|FileName=DigitalIO.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AnalogSupplies.SchDoc|FileName=DigitalSupplies.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AnalogSupplies.SchDoc|FileName=Misc.SchDoc|SheetNumber=3
